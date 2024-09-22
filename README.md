@@ -21,6 +21,7 @@ Based on Casella and Berger 2001
     * 31-40
       * 32 ✅
       * 35 ✅
+      * 36 ✅
       * 38 ✅
       * 39 ✅
     * 41-50
