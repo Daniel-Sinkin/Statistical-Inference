@@ -38,4 +38,5 @@ Based on Casella and Berger 2001
 
 ## 5. Properties of a Random Sample
 * 1-10
-   * 1 ✅
+  * 1 ✅
+  * 2 ✅
