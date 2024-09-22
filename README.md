@@ -28,7 +28,8 @@ Based on Casella and Berger 2001
       * 44 ✅
       * 45 ✅
       * 46 ❌
-      * 47 ❌
+      * 47 ✅
+      * 48 ✅
     * 51-55
 2. Transformations and Expectations
    * 1-10
