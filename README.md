@@ -32,13 +32,18 @@ Based on Casella and Berger 2001
   * 48 ✅
 * 51-55
 
-# 2. Transformations and Expectations
+## 2. Transformations and Expectations
 * 1-10
   * 1 ✅
 
-# 3. Common Families of Distributions
+## 3. Common Families of Distributions
 * 1-10
   * 10 ✅
+  * 16 ✅
+
+## 4. Multiple Random Variables
+* 1-10
+  * 1 ✅
 
 ## 5. Properties of a Random Sample
 * 1-10
