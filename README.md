@@ -44,6 +44,8 @@ Based on Casella and Berger 2001
 ## 4. Multiple Random Variables
 * 1-10
   * 1 ✅
+  * 2 ✅
+  * 10 ✅
 
 ## 5. Properties of a Random Sample
 * 1-10
