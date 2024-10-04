@@ -6,6 +6,7 @@ Based on Casella and Berger 2001
 * 1-10
   * 1 ✅
   * 2 ✅
+  * 3 ✅
   * 7 ✅
   * 8 ✅
 * 11-20
