@@ -46,6 +46,8 @@ Based on Casella and Berger 2001
   * 1 ✅
   * 2 ✅
   * 10 ✅
+* 11-20
+  * 18 ✅
 
 ## 5. Properties of a Random Sample
 * 1-10
