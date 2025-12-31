@@ -36,6 +36,15 @@ Based on Casella and Berger 2001
 ## 2. Transformations and Expectations
 * 1-10
   * 1 ✅
+  * 2 ✅
+  * 3 ✅
+  * 4 ✅
+  * 5 ✅
+  * 6 ❌
+  * 7 ❌
+  * 8 ❌
+  * 9 ❌
+  * 10 ❌
 
 ## 3. Common Families of Distributions
 * 1-10
